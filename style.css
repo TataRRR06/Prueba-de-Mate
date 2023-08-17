@@ -11,7 +11,11 @@ border-radius: 30px;
 border-color: aquamarine;
 }
 
-#player1_name,#player2_name{
-    display: inline-block;
-margin-left: 20px;
+#output{
+    background-color: rgb(190, 222, 246);
+    border-radius: 40px;
+    border-top: 20px solid cadetblue;
+    padding: 20px;
+    float: none;
+    text-align: left;
 }
